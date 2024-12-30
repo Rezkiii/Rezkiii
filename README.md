@@ -1,6 +1,6 @@
 ## Muh Rezki
 
-**Mahasiswa Semester 7 Teknik Komputer dan Jaringan, Politeknik Negeri Ujung Pandang**
+
 
 ### Tentang Saya
 Saya seorang mahasiswa yang tertarik dengan dunia keamanan siber. Saat ini sedang aktif mempelajari dan mengembangkan berbagai keterampilan di bidang ini. 
