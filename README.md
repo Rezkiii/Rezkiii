@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Rezkiii
-- 👀 I’m interested in c language i guess
+## Muh Rezki
 
+**Mahasiswa Semester 7 Teknik Komputer dan Jaringan, Politeknik Negeri Ujung Pandang**
 
-<!---
-Rezkiii/Rezkiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Tentang Saya
+Saya seorang mahasiswa yang tertarik dengan dunia keamanan siber. Saat ini sedang aktif mempelajari dan mengembangkan berbagai keterampilan di bidang ini. 
+
+### Keahlian
+* **Cybersecurity:** Menguasai konsep dasar dan teknik keamanan siber.
+* **Pemrograman:** Mahir dalam Python dan C#. 
+* **Web Programming:** Mampu membangun aplikasi web menggunakan berbagai framework seperti flask dan CodeIgniter3.
