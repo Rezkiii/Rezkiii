@@ -7,5 +7,5 @@ Saya seorang mahasiswa yang tertarik dengan dunia keamanan siber. Saat ini sedan
 
 ### Keahlian
 * **Cybersecurity:** Menguasai konsep dasar dan teknik keamanan siber.
-* **Pemrograman:** Mahir dalam Python,C#, React Native. 
+* **Pemrograman:** Mahir dalam Python,C#, React Native dan Golang.
 * **Web Programming:** Mampu membangun aplikasi web menggunakan berbagai framework seperti flask dan CodeIgniter3.
