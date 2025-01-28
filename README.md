@@ -9,3 +9,5 @@ Saya seorang mahasiswa yang tertarik dengan dunia keamanan siber. Saat ini sedan
 * **Cybersecurity:** Menguasai konsep dasar dan teknik keamanan siber.
 * **Pemrograman:** Mahir dalam Python,C#, React Native dan Golang.
 * **Web Programming:** Mampu membangun aplikasi web menggunakan berbagai framework seperti flask dan CodeIgniter3.
+
+![Rezki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rezkiii&show_icons=true&theme=transparent)
