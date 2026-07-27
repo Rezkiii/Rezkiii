@@ -7,20 +7,20 @@
   </picture>
 </div>
 
-## 🚀 Terminal_Utama.exe: Tentang Saya
+## Tentang Saya
 
 Saya adalah lulusan Sarjana Terapan (S.Tr.T.) Teknik Komputer dan Jaringan dari Politeknik Negeri Ujung Pandang (IPK 3.61/4.0). Memiliki minat yang besar pada *front-end web development*, khususnya dalam ekosistem React, saya saat ini sangat bersemangat untuk memulai karir profesional sebagai *Junior Programmer* di dalam sebuah tim. Berdomisili di Gowa, Indonesia.
 
-- 💻 **Pengalaman & Fokus:** Memiliki rekam jejak dalam mengembangkan *landing page* dan sistem web dinamis menggunakan Next.js, React, dan Tailwind CSS (Fitinfinity). Saya juga merancang fitur CRUD terintegrasi dan membangun *backend* peminjaman alat laboratorium menggunakan Golang, serta *e-catalog* dengan Laravel (Malut Gadget).
-- 🌐 **Infrastruktur & Keamanan:** Berpengalaman mengimplementasikan arsitektur *Zero Trust* pada Sistem Persuratan Kelurahan (Teaching Factory) menggunakan Proxmox VE dan Cloudflare Tunnel. Selain itu, saya terbiasa melakukan pemeliharaan perangkat keras dan jaringan lab.
-- 🎨 **Desain & Kreativitas:** Mampu menerjemahkan desain UI/UX dari tim desain ke dalam komponen *frontend* modern. Di luar pengkodean, saya rutin berlatih biola dan gemar menggambar ilustrasi digital serta menulis fiksi, khususnya mengembangkan cerita tentang karakter Baskara dan Kirana menggunakan Krita.
-- 🌍 **Peningkatan Diri:** Sedang memperdalam kemampuan bahasa asing untuk sertifikasi TOEFL/IELTS dan HSK Mandarin.
+- **Pengalaman & Fokus:** Memiliki rekam jejak dalam mengembangkan *landing page* dan sistem web dinamis menggunakan Next.js, React, dan Tailwind CSS (Fitinfinity). Saya juga merancang fitur CRUD terintegrasi dan membangun *backend* peminjaman alat laboratorium menggunakan Golang, serta *e-catalog* dengan Laravel (Malut Gadget).
+- **Infrastruktur & Keamanan:** Berpengalaman mengimplementasikan arsitektur *Zero Trust* pada Sistem Persuratan Kelurahan (Teaching Factory) menggunakan Proxmox VE dan Cloudflare Tunnel. Selain itu, saya terbiasa melakukan pemeliharaan perangkat keras dan jaringan lab.
+- **Desain & Kreativitas:** Mampu menerjemahkan desain UI/UX dari tim desain ke dalam komponen *frontend* modern. Di luar pengkodean, saya rutin berlatih biola dan gemar menggambar ilustrasi digital serta menulis fiksi, khususnya mengembangkan cerita tentang karakter Baskara dan Kirana menggunakan Krita.
+- **Peningkatan Diri:** Sedang memperdalam kemampuan bahasa asing untuk sertifikasi TOEFL/IELTS dan HSK Mandarin.
 
 ---
 
-## 🛠️ Tech_Stack_Modules.sys
+## Tech_Stack_Modules.sys
 
-### 🖥️ Frontend Development
+### Frontend Development
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS"/>
@@ -29,7 +29,7 @@ Saya adalah lulusan Sarjana Terapan (S.Tr.T.) Teknik Komputer dan Jaringan dari 
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 </div>
 
-### ⚙️ Backend & Database
+### Backend & Database
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS"/>
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
@@ -40,7 +40,7 @@ Saya adalah lulusan Sarjana Terapan (S.Tr.T.) Teknik Komputer dan Jaringan dari 
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </div>
 
-### 📡 Server & Infrastructure
+### Server & Infrastructure
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
@@ -50,7 +50,7 @@ Saya adalah lulusan Sarjana Terapan (S.Tr.T.) Teknik Komputer dan Jaringan dari 
 
 ---
 
-## 📊 Dashboard_Metrik_GitHub.log
+## Dashboard_Metrik_GitHub.log
 
 <div align="center">
   <!-- Statistik Utama (Adaptif: Dark/Light Mode) -->
@@ -79,14 +79,14 @@ Saya adalah lulusan Sarjana Terapan (S.Tr.T.) Teknik Komputer dan Jaringan dari 
 
 ---
 
-## 📬 Jalur_Komunikasi.net
+## Jalur_Komunikasi.net
 
 Mari terhubung! Saya selalu terbuka untuk diskusi mengenai web development, infrastruktur IT, atau kolaborasi proyek:
 
-- 💼 **LinkedIn:** [linkedin.com/in/muh-rezkiii](https://www.linkedin.com/in/muh-rezkiii/)
-- 🌐 **Portofolio Utama:** [rezkiiportofolio.vercel.app](https://rezkiiportofolio.vercel.app)
-- 📧 **Email:** [muhrezki4@gmail.com](mailto:muhrezki4@gmail.com)
+- **LinkedIn:** [linkedin.com/in/muh-rezkiii](https://www.linkedin.com/in/muh-rezkiii/)
+- **Portofolio Utama:** [rezkiiportofolio.vercel.app](https://rezkiiportofolio.vercel.app)
+- **Email:** [muhrezki4@gmail.com](mailto:muhrezki4@gmail.com)
 
 <div align="center">
-  <p><i>Terus mengoptimalkan performa, merancang UI yang responsif, dan menulis kode yang bersih.</i> 💻✨</p>
+  <p><i>Terus mengoptimalkan performa, merancang UI yang responsif, dan menulis kode yang bersih.</i></p>
 </div>
