@@ -1,9 +1,16 @@
 <div align="center">
   <!-- Banner Futuristik Dinamis (Adaptif) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0073B2&height=250&section=header&text=Halo,%20Saya%20Muh%20Rezki!&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Web%20Developer%20%7C%20React%20Ecosystem%20%7C%20IT%20Support&descAlignY=61&descAlign=62">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=00a8ff&height=250&section=header&text=Halo,%20Saya%20Muh%20Rezki!&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Web%20Developer%20%7C%20React%20Ecosystem%20%7C%20IT%20Support&descAlignY=61&descAlign=62">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0073B2&height=250&section=header&text=Halo,%20Saya%20Muh%20Rezki!&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Web%20Developer%20%7C%20React%20Ecosystem%20%7C%20IT%20Support&descAlignY=61&descAlign=62" width="100%" alt="Banner Profil" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0073B2&height=200&section=header&text=Halo,%20Saya%20Muh%20Rezki!&fontSize=50&fontColor=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=00a8ff&height=200&section=header&text=Halo,%20Saya%20Muh%20Rezki!&fontSize=50&fontColor=ffffff">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0073B2&height=200&section=header&text=Halo,%20Saya%20Muh%20Rezki!&fontSize=50&fontColor=ffffff" width="100%" alt="Banner Profil" />
+  </picture>
+
+  <!-- Animasi Teks Berganti (Typing Effect) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=22&duration=3000&pause=1000&color=00a8ff&center=true&vCenter=true&width=600&lines=Front-End+Web+Developer;React+Ecosystem;IT+Support;Junior+Programmer">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=22&duration=3000&pause=1000&color=0073B2&center=true&vCenter=true&width=600&lines=Front-End+Web+Developer;React+Ecosystem;IT+Support;Junior+Programmer">
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=22&duration=3000&pause=1000&color=0073B2&center=true&vCenter=true&width=600&lines=Front-End+Web+Developer;React+Ecosystem;IT+Support;Junior+Programmer" alt="Typing Effect" />
   </picture>
 </div>
 
