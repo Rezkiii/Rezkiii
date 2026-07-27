@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- Banner Futuristik Dinamis (Adaptif) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0073B2&height=250&section=header&text=Halo,%20Saya%20Muh%20Rezki!&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20IT%20Infrastructure%20%7C%20Cybersecurity&descAlignY=61&descAlign=62">
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=00a8ff&height=250&section=header&text=Halo,%20Saya%20Muh%20Rezki!&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20IT%20Infrastructure%20%7C%20Cybersecurity&descAlignY=61&descAlign=62">
@@ -7,20 +6,20 @@
   </picture>
 </div>
 
-## 🚀 Terminal_Utama.exe: Tentang Saya
+## Terminal_Utama.exe: Tentang Saya
 
-Saya adalah seorang *Web Developer* dan Staf IT di lingkungan UPA TIK Politeknik Negeri Ujung Pandang. Dengan latar belakang Sarjana Terapan (S.Tr.T.) di bidang Teknik Komputer dan Jaringan, saya berfokus pada pengembangan arsitektur web modern, manajemen infrastruktur server tervirtualisasi, dan implementasi keamanan siber.
+Saya adalah seorang Web Developer dan Staf IT di lingkungan UPA TIK Politeknik Negeri Ujung Pandang. Dengan latar belakang Sarjana Terapan (S.Tr.T.) di bidang Teknik Komputer dan Jaringan, saya berfokus pada pengembangan arsitektur web modern, manajemen infrastruktur server tervirtualisasi, dan implementasi keamanan siber.
 
-- 💻 **Fokus Pengembangan:** Saat ini sedang membangun antarmuka web yang sangat interaktif, termasuk portofolio simulasi *desktop* Windows 10 yang terhubung dengan dataset JSON lokal, serta web bertema *arcade* yang terintegrasi dengan *rhythm game*.
-- 🌐 **Infrastruktur & Keamanan:** Mengelola lingkungan server dengan Proxmox VM, *container* Docker, serta merutekan jaringan publik ke area pengujian internal menggunakan Nginx Proxy Manager dan Cloudflare Zero Trust. Saya juga aktif melakukan audit keamanan dengan Wazuh dan Metasploit.
-- 🎨 **Desain & Kreativitas:** Merancang UI di Figma dan membuat ilustrasi digital (termasuk *world-building* karakter) menggunakan Krita.
-- 🌍 **Peningkatan Diri:** Sedang mempersiapkan sertifikasi bahasa internasional (TOEFL/IELTS dan HSK Mandarin) dan mengisi waktu luang dengan berlatih biola.
+- Fokus Pengembangan: Saat ini sedang membangun antarmuka web yang interaktif, termasuk portofolio simulasi desktop Windows 10 yang terhubung dengan dataset JSON lokal, serta web bertema arcade yang terintegrasi dengan rhythm game.
+- Infrastruktur & Keamanan: Mengelola lingkungan server dengan Proxmox VM, container Docker, serta merutekan jaringan publik ke area pengujian internal menggunakan Nginx Proxy Manager dan Cloudflare Zero Trust. Saya juga aktif melakukan audit keamanan dengan Wazuh dan Metasploit.
+- Desain & Kreativitas: Merancang UI di Figma dan membuat ilustrasi digital menggunakan Krita.
+- Peningkatan Diri: Sedang mempersiapkan sertifikasi bahasa internasional (TOEFL/IELTS dan HSK Mandarin) serta berlatih biola di waktu luang.
 
 ---
 
-## 🛠️ Tech_Stack_Modules.sys
+## Tech_Stack_Modules.sys
 
-### 🖥️ Frontend & Backend Development
+### Frontend & Backend Development
 <div align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
@@ -30,7 +29,7 @@ Saya adalah seorang *Web Developer* dan Staf IT di lingkungan UPA TIK Politeknik
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 </div>
 
-### ⚙️ Server, Infrastructure & Security
+### Server, Infrastructure & Security
 <div align="left">
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -42,10 +41,9 @@ Saya adalah seorang *Web Developer* dan Staf IT di lingkungan UPA TIK Politeknik
 
 ---
 
-## 📊 Dashboard_Metrik_GitHub.log
+## Dashboard_Metrik_GitHub.log
 
 <div align="center">
-  <!-- Statistik Utama (Adaptif: Dark/Light Mode) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rezkiii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Rezkiii&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true">
@@ -54,14 +52,12 @@ Saya adalah seorang *Web Developer* dan Staf IT di lingkungan UPA TIK Politeknik
   
   <br><br>
   
-  <!-- Bahasa Pemrograman Utama (Adaptif: Dark/Light Mode) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezkiii&layout=compact&theme=tokyonight&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezkiii&layout=compact&theme=default&hide_border=true">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezkiii&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Populer" />
   </picture>
   
-  <!-- Statistik Streak (Adaptif: Dark/Light Mode) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Rezkiii&theme=tokyonight&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Rezkiii&theme=default&hide_border=true">
@@ -72,5 +68,5 @@ Saya adalah seorang *Web Developer* dan Staf IT di lingkungan UPA TIK Politeknik
 ---
 
 <div align="center">
-  <p><i>Terus mengoptimalkan performa, mengamankan node, dan menulis kode yang bersih.</i> 💻✨</p>
+  <p><i>Terus mengoptimalkan performa, mengamankan node, dan menulis kode yang bersih.</i></p>
 </div>
