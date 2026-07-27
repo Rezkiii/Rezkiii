@@ -1,10 +1,5 @@
 <div align="center">
   <!-- Banner Futuristik Dinamis (Adaptif) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0073B2&height=200&section=header&text=Halo,%20Saya%20Muh%20Rezki!&fontSize=50&fontColor=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=00a8ff&height=200&section=header&text=Halo,%20Saya%20Muh%20Rezki!&fontSize=50&fontColor=ffffff">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0073B2&height=200&section=header&text=Halo,%20Saya%20Muh%20Rezki!&fontSize=50&fontColor=ffffff" width="100%" alt="Banner Profil" />
-  </picture>
 
   <!-- Animasi Teks Berganti (Typing Effect) -->
   <picture>
