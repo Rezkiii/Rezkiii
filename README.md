@@ -1,15 +1,3 @@
-## Muh Rezki
+### 🔥 Statistik Komit Beruntun
 
-
-
-### Tentang Saya
-Saya seorang mahasiswa yang tertarik dengan dunia keamanan siber. Saat ini sedang aktif mempelajari dan mengembangkan berbagai keterampilan di bidang ini. 
-
-### Keahlian
-* **Cybersecurity:** Menguasai konsep dasar dan teknik keamanan siber.
-* **Pemrograman:** Mahir dalam Python,C#, React Native dan Golang.
-* **Web Programming:** Mampu membangun aplikasi web menggunakan berbagai framework seperti flask dan CodeIgniter3.
-
-![Rezki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rezkiii&show_icons=true&theme=default) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezkiii&hide_progress=false)
+![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Rezkiii&theme=dark&hide_border=true)
