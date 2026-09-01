@@ -11,12 +11,7 @@
 
 ## Tentang Saya
 
-Saya adalah lulusan Sarjana Terapan (S.Tr.T.) Teknik Komputer dan Jaringan dari Politeknik Negeri Ujung Pandang (IPK 3.61/4.0). Memiliki minat yang besar pada *front-end web development*, khususnya dalam ekosistem React, saya saat ini sangat bersemangat untuk memulai karir profesional sebagai *Junior Programmer* di dalam sebuah tim. Berdomisili di Gowa, Indonesia.
-
-- **Pengalaman & Fokus:** Memiliki rekam jejak dalam mengembangkan *landing page* dan sistem web dinamis menggunakan Next.js, React, dan Tailwind CSS (Fitinfinity). Saya juga merancang fitur CRUD terintegrasi dan membangun *backend* peminjaman alat laboratorium menggunakan Golang, serta *e-catalog* dengan Laravel (Malut Gadget).
-- **Infrastruktur & Keamanan:** Berpengalaman mengimplementasikan arsitektur *Zero Trust* pada Sistem Persuratan Kelurahan (Teaching Factory) menggunakan Proxmox VE dan Cloudflare Tunnel. Selain itu, saya terbiasa melakukan pemeliharaan perangkat keras dan jaringan lab.
-- **Desain & Kreativitas:** Mampu menerjemahkan desain UI/UX dari tim desain ke dalam komponen *frontend* modern. Di luar pengkodean, saya rutin berlatih biola dan gemar menggambar ilustrasi digital serta menulis fiksi, khususnya mengembangkan cerita tentang karakter Baskara dan Kirana menggunakan Krita.
-- **Peningkatan Diri:** Sedang memperdalam kemampuan bahasa asing untuk sertifikasi TOEFL/IELTS dan HSK Mandarin.
+Saya adalah lulusan Sarjana Terapan (S.Tr.T.) Teknik Komputer dan Jaringan dari Politeknik Negeri Ujung Pandang (IPK 3.61/4.0). Memiliki minat yang besar pada *front-end web development*, khususnya dalam ekosistem React, saya saat ini sangat bersemangat untuk memulai karir profesional sebagai *Junior Programmer* di dalam sebuah tim.
 
 ---
 
