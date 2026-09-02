@@ -11,7 +11,7 @@
 
 ## Tentang Saya
 
-Saya adalah lulusan Sarjana Terapan (S.Tr.T.) Teknik Komputer dan Jaringan dari Politeknik Negeri Ujung Pandang (IPK 3.61/4.0). Memiliki minat yang besar pada *front-end web development*, khususnya dalam ekosistem React, saya saat ini sangat bersemangat untuk memulai karir profesional sebagai *Junior Programmer* di dalam sebuah tim.
+Saya adalah lulusan Sarjana Terapan (S.Tr.T.) Teknik Komputer dan Jaringan dari Politeknik Negeri Ujung Pandang (IPK 3.61/4.0). Memiliki minat yang besar pada *front-end web development*, khususnya dalam ekosistem React, saya saat ini sangat bersemangat untuk memulai karir profesional sebagai *Junior Programmer*
 
 ---
 
