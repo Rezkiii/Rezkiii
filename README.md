@@ -60,11 +60,7 @@ Saya adalah lulusan Sarjana Terapan (S.Tr.T.) Teknik Komputer dan Jaringan dari 
   <br><br>
   
   <!-- Bahasa Pemrograman Utama (Adaptif: Dark/Light Mode) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezkiii&layout=compact&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezkiii&layout=compact&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezkiii&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Populer" />
-  </picture>
+ 
   
   <!-- Statistik Streak (Adaptif: Dark/Light Mode) -->
   <picture>
